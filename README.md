@@ -1,4 +1,4 @@
-# Weather Forecast App
+# Weather App
 
 Built with React. Uses OpenWeatherMap's API.
 
